@@ -1,0 +1,46 @@
+body {
+  background-color: #87CEFA;
+  padding: 20px;
+  margin: 0;
+}
+
+.title {
+  color: white;
+}
+
+.content {
+  background-color: #B0E0E6;
+  padding: 20px;
+}
+
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.content li {
+  margin-bottom: 10px;
+}
+
+ul.header {
+  background-color: #B0E0E6;
+  padding: 0;
+}
+
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
